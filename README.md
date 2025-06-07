@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm sood2005 👋
+
+I'm a **Full Stack Developer** who is passionate about building things on the cloud and exploring the endless possibilities of cloud computing! My favorite tech stack revolves around **JavaScript** and its powerful frameworks.
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer | Cloud Enthusiast
+- 🌩️ Passionate about cloud computing and scalable architectures
+- ⚡ Love working with JavaScript, Node.js, React, and other modern frameworks
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Express
+- **Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes
+- **Tools:** Git, VS Code, Postman
+
+## 🎯 Hobbies & Fun
+
+- ♟️ Enjoy playing chess and other games
+- 🕹️ Love to chill with friends and unwind
+
+## 📈 GitHub Stats
+
+![sood2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=sood2005&show_icons=true&theme=radical)
 
 <!--
-**sood2005/sood2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+(Add your top projects here with short descriptions and links!)
 -->
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/pranjal-sood-070301272)
+
+---
+
+> “Code. Play. Chill. Repeat.”
